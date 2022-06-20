@@ -1,0 +1,12 @@
+D:\KPI\Курсач 1 курс\CourseWork.Data\bin\Debug\net5.0\CourseWork.Data.deps.json
+D:\KPI\Курсач 1 курс\CourseWork.Data\bin\Debug\net5.0\CourseWork.Data.dll
+D:\KPI\Курсач 1 курс\CourseWork.Data\bin\Debug\net5.0\ref\CourseWork.Data.dll
+D:\KPI\Курсач 1 курс\CourseWork.Data\bin\Debug\net5.0\CourseWork.Data.pdb
+D:\KPI\Курсач 1 курс\CourseWork.Data\obj\Debug\net5.0\CourseWork.Data.csproj.AssemblyReference.cache
+D:\KPI\Курсач 1 курс\CourseWork.Data\obj\Debug\net5.0\CourseWork.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\KPI\Курсач 1 курс\CourseWork.Data\obj\Debug\net5.0\CourseWork.Data.AssemblyInfoInputs.cache
+D:\KPI\Курсач 1 курс\CourseWork.Data\obj\Debug\net5.0\CourseWork.Data.AssemblyInfo.cs
+D:\KPI\Курсач 1 курс\CourseWork.Data\obj\Debug\net5.0\CourseWork.Data.csproj.CoreCompileInputs.cache
+D:\KPI\Курсач 1 курс\CourseWork.Data\obj\Debug\net5.0\CourseWork.Data.dll
+D:\KPI\Курсач 1 курс\CourseWork.Data\obj\Debug\net5.0\ref\CourseWork.Data.dll
+D:\KPI\Курсач 1 курс\CourseWork.Data\obj\Debug\net5.0\CourseWork.Data.pdb

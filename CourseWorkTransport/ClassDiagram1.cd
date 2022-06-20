@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CourseWorkTransport.Form_Main">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>/wgQBdAJgiBIGhAJLAGAyKDCYBEUAMgARBWIAkUAAhQ=</HashCode>
+      <FileName>Form_Main.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseWork.Data.Base&lt;T&gt;">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CourseWork.Data.Route">
+    <Position X="3" Y="3.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CourseWork.Data.Sharing">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CourseWork.Data.Station">
+    <Position X="1" Y="3.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CourseWork.Data.Transport">
+    <Position X="5" Y="3" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CourseWork.Data.TransportType">
+    <Position X="9.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
